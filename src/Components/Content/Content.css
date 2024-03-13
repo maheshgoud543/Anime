@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 10px;
+
+}
+
+.ContentData {
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 2px solid black;
+    display: flex;
+    box-sizing: border-box;
+
+
+}
